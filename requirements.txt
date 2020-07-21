@@ -119,7 +119,7 @@ smmap2==2.0.5
 snuggs==1.4.7
 subprocess32==3.5.2
 tensorboard==1.14.0
-tensorflow==1.14.0
+tensorflow==1.15.2
 tensorflow-estimator==1.14.0
 termcolor==1.1.0
 terminado==0.8.3
