@@ -2,7 +2,7 @@ Title: Init
 Date: 2020-07-21 00:06
 Category: init
 Tags: initialization, blog
-Description: An archive of my thoughts on measuring programmer productivity through actual data, rather than abstract Jira tickets and sprint burndown charts.
+Description: Initializing my future writings.
 Status: Published
 Cover: images/fig1.png
 
