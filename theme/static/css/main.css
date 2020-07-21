@@ -63,6 +63,7 @@ body {
     justify-content: center;
     align-items: flex-start;
     text-align: justify;
+    
 }
 
 ol, ul {
@@ -513,7 +514,8 @@ html {
 
 body {
     font-family: et-bembo, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
-    background-color: #f8f8ff;
+    background-color: #fffff8;
+    /* background-image: url("/images/merauders.jpg"); */
     color: #111;
 }
 
