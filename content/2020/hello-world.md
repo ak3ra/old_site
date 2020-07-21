@@ -26,7 +26,12 @@ The backend is powered by Pelican, credits to [Eric Lawler](https://lawler.io/ab
 
 ### Looking Forward
 
-I am hopeful that I will write more of my thoughts and things I find interesting here.
+I am hopeful that I will write more of my thoughts and things I find interesting here. 
 
 ---- 
+Init <label for="sn-technically" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-technically" class="margin-toggle"> 
+<span class="sidenote"><em>Init [init: ] In Unix-based computer operating systems, init (short for initialization) is the first process started during booting of the computer system. Init is a daemon process that continues running until the system is shut down.</em>
+ </span>
+
+
 </section>
