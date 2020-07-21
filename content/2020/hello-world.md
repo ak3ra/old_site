@@ -1,5 +1,5 @@
 Title: Init
-Date: 2020-07-20 18:57
+Date: 2020-07-21 00:06
 Category: init
 Tags: initialization, blog
 Description: An archive of my thoughts on measuring programmer productivity through actual data, rather than abstract Jira tickets and sprint burndown charts.
@@ -31,5 +31,5 @@ The backend is powered by Pelican, credits to [Eric Lawler](https://lawler.io/ab
 
 I am hopeful that I will write more of my thoughts and things I find interesting here.
 
-
+---- 
 </section>
