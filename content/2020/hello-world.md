@@ -4,15 +4,12 @@ Category: init
 Tags: initialization, blog
 Description: Initializing my future writings.
 Status: Published
-Cover: images/fig1.png
 
 
 <section markdown="1">
 Hello, world, 
 
-Init <label for="sn-technically" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-technically" class="margin-toggle"> 
-<span class="sidenote"><em>Init [init: ] In Unix-based computer operating systems, init (short for initialization) is the first process started during booting of the computer system. Init is a daemon process that continues running until the system is shut down.</em>
- </span> After many years of procrastination and a global pandemic, I thought I would finally start blogging and writing some of my thoughts.
+After a lot of procrastination and a global pandemic, I thought I would finally start blogging and writing some of my thoughts.
 
 This blog has seen many revisions and attempts to find the best blogging platform, one that gives me the flexibility and ability to focus on writing without worrying about paywalls <label for="sn-paywall" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-paywall" class="margin-toggle"> <span class="sidenote"><em>I just dont like how medium hides stories behind paywalls, Yes, I know people can always use incognito mode, but sometimes that gets really annoying.</em></span>
 
