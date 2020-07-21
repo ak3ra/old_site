@@ -18,7 +18,7 @@ This blog has seen many revisions and attempts to find the best blogging platfor
 I drew inspiration for this kind of design (font and side-notes) from Edward Tufte's style. 
 Edward Tufte is an American statistician and professor emeritus of political science, statistics, and computer science at Yale University. He is noted for his writings on information design and as a pioneer in the field of data visualization.
 
-<figure class="fullwidth"><img src="/images/tufte.gif" alt="Edward Tufte's design"><caption> Sample page of an Edward Tufte designed handout</caption></figure>
+<figure class="fullwidth"><img src="/images/tufte.gif" alt="Edward Tufte's design"><caption> An Edward Tufte designed handout</caption></figure>
 
 The Paper-like borders around articles are inspired by the material design principles from Google <em>(code-named quantum paper) </em>. The content of each article are wrapped within a "card" hence the 3d-ish effect and shadows.
 
