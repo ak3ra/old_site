@@ -36,7 +36,10 @@ We had to revise the paper twice.
 
 ### Where do you find help while writing?
 
-I usually seek help from colleagues and mentors. However, most times, literature reviews help me better understand the writing style used in a particular scientific domain and similar patterns among authors in the same field doing related work.  For fundamental writing techniques, I have found the book, <em>“The Elements of Style” </em>by William Strunk Jr particularly useful. It has always given me a better grasp of proper writing skills. It clearly spells out the rules of English grammar and provides examples to explain each guideline. 
+I usually seek help from colleagues and mentors. However, most times, literature reviews help me better understand the writing style used in a particular scientific domain and similar patterns among authors in the same field doing related work.  For fundamental writing techniques, I have found the book, <em>“The Elements of Style” </em>by William Strunk Jr <label for="sn-technically" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-technically" class="margin-toggle"> 
+<span class="sidenote">![The elements](/images/elements_of_style.jpg) <em>The elements of style book</em></span>
+
+particularly useful. It has always given me a better grasp of proper writing skills. It clearly spells out the rules of English grammar and provides examples to explain each guideline. 
 
 ### What is the one advice you would give to someone <br> working on a paper for the first time?
 
