@@ -19,6 +19,7 @@ Description: A list of all the random things people have paid me money to do.
 <span class="sidenote"><em>J Francis Tusubira, S Nsumba, F Ninsiima, B Akera, G Acellam<a style='color:blue' href="https://openaccess.thecvf.com/content_CVPRW_2020/papers/w5/Tusubira_Improving_In-Field_Cassava_Whitefly_Pest_Surveillance_With_Machine_Learning_CVPRW_2020_paper.pdf">[link]</a></em>
  </span>Improving In-Field Cassava Whitefly Pest Surveillance With Machine Learning
 
+## 2019
 <label for="sn-pub4" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-pub4" class="margin-toggle"> 
 <span class="sidenote"><em>B Akera, J Nakatumba, J Mukiibi, A Hussein, N Baleeta<a style='color:blue' href="https://arxiv.org/abs/1910.02292">[link]</a></em>
  </span>Keyword Spotter Model for Crop Pest and Disease Monitoring from Community Radio Data
