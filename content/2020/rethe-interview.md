@@ -12,7 +12,7 @@ Originally published at [rethe.org](https://www.rethe.org)
 
 --- 
 
-Our latest blog post features Benjamin Akera from Uganda. Ben is currently a researcher in the Artificial Intelligence (AI) for Humanity group at the Montreal Institute for Learning Algorithms (MILA) in Canada. He is broadly interested in the use of AI for social good. We talked to Ben about his interest in Scientific Writing and research. 
+Our latest blog post features Benjamin Akera from Uganda. Ben is currently a researcher in the Artificial Intelligence (AI) for Humanity group at the Montreal Institute for Learning Algorithms (MILA) in Canada and co-founder at Mfeyti in Uganda. He is broadly interested in the use of AI for social good. We talked to Ben about his interest in Scientific Writing and research. 
 
 ### Ben, what do you like most about scientific writing?
 
