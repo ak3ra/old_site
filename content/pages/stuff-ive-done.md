@@ -8,19 +8,19 @@ Description: A list of all the random things people have paid me money to do.
 ## 2020
 <label for="sn-pub1" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-pub1" class
 ="margin-toggle"> 
-<span class="sidenote"><em>R Nakasi, E Mwebaze, A Zawedde, J Tusubira, B Akera, G Maiga </em><a style='color:blue' href="#">[link]</a>
+<span class="sidenote"><em>R Nakasi, E Mwebaze, A Zawedde, J Tusubira, B Akera, G Maiga <a style='color:blue' href="#">[link]</a></em>
  </span>A  new approach for microscopic diagnosis of malaria parasites in thick blood smears using pre-trained deep learning models
 
 <label for="sn-pub2" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-pub2" class="margin-toggle"> 
-<span class="sidenote"><em>JF Tusubira, B Akera, S Nsumba, J Nakatumba, E Mwebaze</em><a style='color:blue' href="#">[link]</a>
+<span class="sidenote"><em>JF Tusubira, B Akera, S Nsumba, J Nakatumba, E Mwebaze<a style='color:blue' href="#">[link]</a></em>
  </span>Scoring Root Necrosis in Cassava Using Semantic Segmentation
 
 <label for="sn-pub3" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-pub3" class="margin-toggle"> 
-<span class="sidenote"><em>J Francis Tusubira, S Nsumba, F Ninsiima, B Akera, G Acellam</em><a style='color:blue' href="#">[link]</a>
+<span class="sidenote"><em>J Francis Tusubira, S Nsumba, F Ninsiima, B Akera, G Acellam<a style='color:blue' href="#">[link]</a></em>
  </span>Improving In-Field Cassava Whitefly Pest Surveillance With Machine Learning
 
 <label for="sn-pub4" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-pub4" class="margin-toggle"> 
-<span class="sidenote"><em>B Akera, J Nakatumba, J Mukiibi, A Hussein, N Baleeta</em><a style='color:blue' href="#">[link]</a>
+<span class="sidenote"><em>B Akera, J Nakatumba, J Mukiibi, A Hussein, N Baleeta<a style='color:blue' href="#">[link]</a></em>
  </span>Keyword Spotter Model for Crop Pest and Disease Monitoring from Community Radio Data
 
 --- 
