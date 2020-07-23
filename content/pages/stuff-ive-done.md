@@ -25,8 +25,5 @@ Description: A list of all the random things people have paid me money to do.
 
 --- 
 
-## Projects
-
-
     
 </section>
